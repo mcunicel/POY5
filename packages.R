@@ -9,4 +9,6 @@ pacman::p_load(conflicted,
                targets, 
                tarchetypes, 
                tidyverse, 
-               readxl)
+               readxl,
+              here,
+              ggthemes)
